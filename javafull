@@ -78,3 +78,16 @@ int age=18;
 
 }}
 (OUTPUT)=>Uncle/Aunty.
+//    for(int i=1;i<=5;i++)
+//     {
+//    	 System.out.println(i);
+//     }
+    
+     {
+    	 for(int j=1;j<=3;j++)
+    		 System.out.println(j);
+     }
+
+}}
+(OUTPUT)=>(1,2,3,4,5),
+(1,2,3).
