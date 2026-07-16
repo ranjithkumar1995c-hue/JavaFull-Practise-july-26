@@ -91,3 +91,13 @@ int age=18;
 }}
 (OUTPUT)=>(1,2,3,4,5),
 (1,2,3).
+//While loop
+		int n=5;
+		int i=0;
+		while(i<5)
+		{
+			System.out.println(i);
+			i++;
+		}
+}}
+(OUTPUT)=>(0,1,2,3,4).
