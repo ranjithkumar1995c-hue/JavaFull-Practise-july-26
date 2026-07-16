@@ -58,3 +58,7 @@ boolean a=true;
 (OUTPUT)=>false
 true
 false.
+int age=19;
+		String S(age>18 ?"Eligible":"No Eligible");
+		System.out.println(s);
+(OUTPUT)=>Eligible.
