@@ -62,3 +62,19 @@ int age=19;
 		String S(age>18 ?"Eligible":"No Eligible");
 		System.out.println(s);
 (OUTPUT)=>Eligible.
+int age=18;
+		if (age>=18)
+		{
+			if(age>=60) {
+				System.out.println("Grantparent");
+			}
+			else {
+				System.out.println("Uncle/Aunty");
+			}}
+			else {
+				System.out.println("Not Eligible to vote");
+			}
+		
+
+}}
+(OUTPUT)=>Uncle/Aunty.
