@@ -33,4 +33,20 @@ Hi;Hello every one.
 -20
 300
 0
-10
+10.
+// Relational Operator.
+		int a=20;
+		int b=40;
+		System.out.println(a>b);
+		System.out.println(a<b);
+		System.out.println(a>=b);
+		System.out.println(a<=b);
+		System.out.println(a==b);
+		System.out.println(a=b);
+(OUTPUT)=>false
+true
+false
+true
+false
+40.
+
