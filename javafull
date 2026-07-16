@@ -21,3 +21,16 @@ Hello world,
 Hi;Hello every one.
 127.
 125.
+//		1.Arithmetic Operator.
+		int a=10;
+		int b=30;
+		System.out.println(a+b);
+		System.out.println(a-b);
+		System.out.println(a*b);
+		System.out.println(a/b);
+		System.out.println(a%b);
+(OUTPUT)=>40
+-20
+300
+0
+10
