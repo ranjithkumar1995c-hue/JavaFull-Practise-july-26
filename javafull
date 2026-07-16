@@ -108,3 +108,18 @@ int age=18;
 			i++;
 		} while (i==0);
 (OUTPUT)=>0.
+// Break Statement Ex:
+		while(i==0);
+		for(int i=1;i<=4;i++)
+		{
+			if(i==3);
+		}
+		{
+			break;
+			continue;
+		}
+		
+		System.out.println(i);
+		
+}}
+(OUTPUT)=>(1,2).
