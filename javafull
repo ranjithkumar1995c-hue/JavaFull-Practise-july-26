@@ -50,3 +50,11 @@ true
 false
 40.
 
+boolean a=true;
+		boolean b=false;
+		System.out.println(a&&b);
+		System.out.println(a||b);
+		System.out.println(!a);
+(OUTPUT)=>false
+true
+false.
