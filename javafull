@@ -289,3 +289,17 @@ public void sum(int a,int b)
 }}
 
 (OUTPUT)=>30.
+public int fact(int n) {
+		if(n==1)
+			return n;
+		else
+			return(n*fact(n-1));
+	}
+	public static void Main(String[] args) {
+		Javafullpractise ma=new Javafullpractise();
+		System.out.println(ma.fact(5));
+	
+	
+}}
+
+(OUTPUT=>120.
