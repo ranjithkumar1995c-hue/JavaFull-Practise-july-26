@@ -178,3 +178,53 @@ Scanner Sc=new Scanner(System.in);
 4 5 6 
 7 8 9
 (OUTPUT)=>[10,20,30,40,50].
+// Multi Dimensional Array Ex:
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter Size of Table");
+		int t=sc.nextInt();
+		System.out.println("Enter Size Of Row");
+		int r=sc.nextInt();
+		System.out.println("Enter Size Of Column");
+		int c=sc.nextInt();
+		System.out.println("Enter Array Elements");
+		int [][][]arr=new int [t][r][c];
+		for(int i=0;i<t;i++)
+		{
+			for(int j=0;j<r;j++)
+			{
+				for(int k=0;k<c;k++)
+				{
+					arr[i][j][k]=sc.nextInt();
+					System.out.println(arr[i][j][k]+"");
+				}
+			}
+		}
+		System.out.println();
+		System.out.println();
+		
+}}
+(OUT PUT)=>Enter Size of Table
+2
+Enter Size Of Row
+2
+Enter Size Of Column
+2
+Enter Array Elements
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+
+
