@@ -244,3 +244,19 @@ Enter Array Elements
 
 (OUTPUT)=>Java is a Powerful Course.
 
+public void sum(int a,int b)
+  {
+	  int c=a+b;
+	  System.out.println(c);
+  }
+  public static void Main(String[] args) 
+	{
+	  
+			Javafullpractise ma=new Javafullpractise(); 
+			int a=10;
+			int b=20;
+			ma.sum(10, 20);
+	
+}}
+
+(OUTPUT)=>30.
