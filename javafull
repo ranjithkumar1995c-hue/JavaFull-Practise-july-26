@@ -123,3 +123,23 @@ int age=18;
 		
 }}
 (OUTPUT)=>(1,2).
+Scanner Sc=new Scanner(System.in);
+     int n=Sc.nextInt();
+     switch(n)
+     {
+    	 case 5:
+    		 System.out.println("Five");
+    		 break;
+    	 case 10:
+    		 System.out.println("Ten");
+    		 break;
+    	 case 15:
+    		 System.out.println("Fifteen");
+    		 break;
+    	default:
+    		System.out.println("Value out of range");
+    		break;
+     }
+    		 
+}}
+(OUTPUT)=>5.
