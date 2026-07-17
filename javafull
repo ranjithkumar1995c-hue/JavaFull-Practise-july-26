@@ -260,3 +260,18 @@ public void sum(int a,int b)
 }}
 
 (OUTPUT)=>30.
+//Function with argument,with return value.
+	public int sum(int a,int b)
+	{
+		int c=a+b;
+		return c;
+		public static void Main(String[] args) {
+			Javafullpractise ma=new Javafullpractise();
+			int a=10;
+			int b=20;
+		System.out.println(ma.sum(20, 30));	
+		
+		
+}}
+
+(OUTPUT)=>30
