@@ -226,5 +226,21 @@ Enter Array Elements
 7
 8
 8
+// Function
+// Function without argument,without return:
+		public void sum() {
+		
+			System.out.println("Java is a Powerful Course");
+		}
+		public static void Main(String[] args) 
+		{
+			Javafullpractise ma=new Javafullpractise();
+			ma.sum();
+			ma.sum();
+			ma.sum();
+		
+		
+}}
 
+(OUTPUT)=>Java is a Powerful Course.
 
