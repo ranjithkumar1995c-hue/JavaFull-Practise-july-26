@@ -275,3 +275,17 @@ public void sum(int a,int b)
 }}
 
 (OUTPUT)=>30
+//Function Without argument,with return value:
+   public int sum()
+   {
+	   int a=10;
+	   int b=20;
+	   int c=a+b;
+	   return c;
+   }
+   public static void Main(String[] args) {
+	   Javafullpractise ma=new Javafullpractise();
+	   System.out.println(ma.sum());
+}}
+
+(OUTPUT)=>30.
