@@ -384,3 +384,15 @@ public static void main(String[] args) {
          String s3=new String ("Ramu");
          String s4=new String ("Ramu");
 (OUTPUT)=>=== Code Execution Successful ===
+  int id;
+    String n;
+   Student (int id,String n){
+        this.id=id;
+        this.n=n;
+    }}
+    public class Main{
+       public static void main(String[] args) { 
+           Student s1=new Student(10,"Ranith");
+           System.out.println(s1.id);
+           System.out.println(s1.n);
+(OUTPUT)=>(10,Ranjith).
