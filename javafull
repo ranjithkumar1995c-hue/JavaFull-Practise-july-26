@@ -347,3 +347,30 @@ public int fact(int n) {
 }}
 (OUTPUT)=>1
 (OUTPUT=>120.
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class Main {
+    public static void main(String[] args) {
+        //primitive array.
+ //       int[]arr={10,20,30,40};
+ //       int n=arr.length;
+ //       System.out.println("primitive Array->");
+ //       for(int i=0;i<n;i++)
+  //      System.out.println(arr[i]+" ");
+//         System.out.println();
+//         Non-primitive array;
+         String [] names={"ranjith","karthick","Vignesh"};
+         System.out.println("Non-primitive Array->");
+         for(int i=0;i<names.length;i++)
+         System.out.println(names[i]+" ");
+         
+         
+        
+        
+    
+}}
+(OUTPUT)=>Primitive Array-(10,20,30,40,50)&(Non-primitive Array->
+ranjith 
+karthick 
+Vignesh). 
