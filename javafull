@@ -378,3 +378,9 @@ public static void main(String[] args) {
      String str=new String("ranjith");
      System.out.println(str);
 (OUTPUT)=>ranjith.
+ public static void main(String[] args) {
+         String s1="Ramu";
+         String s2="Ramu";
+         String s3=new String ("Ramu");
+         String s4=new String ("Ramu");
+(OUTPUT)=>=== Code Execution Successful ===
